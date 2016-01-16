@@ -1,0 +1,9 @@
+.gradle
+build/
+
+!gradle-wrapper.jar
+gradle.properties
+local.properties
+
+.idea
+MultiDex-hook.iml
