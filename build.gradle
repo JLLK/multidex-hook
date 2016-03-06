@@ -33,7 +33,7 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile "com.github.jllk:multidex-installer:${project.multidexInstallerVersion}@aar"
+    compile "com.github.jllk:multidex-installer:0.0.4-beta@aar"
 }
 
 ext {
